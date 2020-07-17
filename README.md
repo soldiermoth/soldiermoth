@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Bobby Peck currently I'm a Senior Principal Engineer for Playback at Brightcove
+
 <!--
 **soldiermoth/soldiermoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
